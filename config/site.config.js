@@ -50,6 +50,7 @@ module.exports = {
   links: [
     {
       name: 'WeChat:BPG878',
+      link: 'https://t.me/bpg878',
     },
     {
       name: 'Telegram',
